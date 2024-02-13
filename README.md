@@ -5,7 +5,9 @@ This is a simple ice tea app, using provider as state manager
 
 Here is a screenshot of the app
 
-(./lib/images/chefk.gif)
+
+
+![](./lib/images/chefk.gif)
 
 
 ## Getting Started
